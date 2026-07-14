@@ -1,1 +1,9 @@
-# Main application configuration
+spring:
+  application:
+    name: ecommerce-microservices
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
