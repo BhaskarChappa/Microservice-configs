@@ -20,5 +20,5 @@ security:
   password:
     expiry-days: 90
 jwt:
-  secret-key: "thisismysecret95codebhaskararochappa98"
+  secret-key: "this%^&*ismysecret95#$%^&*code@#$bhaskararo<>7chappa98"
   expiration: 86400000 
